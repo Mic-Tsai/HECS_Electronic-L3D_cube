@@ -7,8 +7,11 @@ You will figure out the leds will start dancing with the music!
 ## 
 
 Arduino tool kit, and require following breakout board:
+
 MCU: Arduino 
+
 Display: WS2812B-5050
+
 Power source: Li-Po Battery
 
 
@@ -20,10 +23,10 @@ Will OPEN SOON:
 
 Detail information please refer system block diagram.
 
-![*L3D_cube_4x4x4*](L3D_cube_4x4x4-1)
-![*L3D_cube_4x4x4*]()
-![*L3D_cube_4x4x4*]()
-![*L3D_cube_4x4x4*]()
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-1.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-2.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-3.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-4.png)
 
 ## 
 
