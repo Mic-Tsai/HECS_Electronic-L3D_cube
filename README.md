@@ -26,6 +26,11 @@ Detail information please refer system block diagram.
 ![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-3.png)
 ![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-4.png)
 
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_Main%20Board_v2.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_Main%20Board_Schematic.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_Display_both_V5.png)
+![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_Display_Schematic.png)
+
 ## 
 
 ## License Information
