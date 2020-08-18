@@ -1,21 +1,21 @@
-L3D_cube_4x4x4
-==============================================
+# L3D_cube_4x4x4
 Use microphone to design an interactive experience.
 You will figure out the leds will start dancing with the music!
 
-If you intresting how it work please refer for detail:
+_If you intresting how it work please refer for detail:_
 
 **HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing).**
 ## 
 
 
-Arduino tool kit, and require following breakout board:
+>Arduino tool kit, and require following breakout board:
 
-MCU: Arduino 
+>>MCU: Arduino 
 
-Display: WS2812B-5050
+>>Display: WS2812B-5050
 
-Power source: Li-Po Battery
+>>Power source: Li-Po Battery
+## 
 
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
