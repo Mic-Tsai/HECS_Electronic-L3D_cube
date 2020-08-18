@@ -5,7 +5,7 @@ You will figure out the leds will start dancing with the music!
 
 If you intresting how it work please refer for detail:
 
-**HECS Electronics (https://drive.google.com/drive/folders/1hWl0UAtBejtkoIuxJiWUgm2AQCSYcjj3).**
+**HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing).**
 ## 
 
 
