@@ -1,5 +1,4 @@
-L3D_cube_4x4x4
-==============================================
+# L3D_cube_4x4x4
 
 Use microphone to design an interactive experience.
 You will figure out the leds will start dancing with the music!
@@ -10,16 +9,15 @@ You will figure out the leds will start dancing with the music!
 
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
-- Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
+- [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
 ### **About HECS**
 
 If you intresting how it work please refer for detail:
 
-- HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
+- [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
 ## 
-
 
 ```
 >Arduino tool kit, and require following breakout board:
@@ -28,14 +26,11 @@ If you intresting how it work please refer for detail:
 - Power source: Li-Po Battery
 ```
 
-## 
-
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
-
-Detail information please refer system block diagram.
+* Contact me via mail (xbcke12345@gmail.com)
 
 ##
 ![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-1.png)
