@@ -2,7 +2,12 @@ L3D_cube_4x4x4
 ==============================================
 Use microphone to design an interactive experience.
 You will figure out the leds will start dancing with the music!
+
+If you intresting how it work please refer for detail:
+
+**HECS Electronics (https://drive.google.com/drive/folders/1hWl0UAtBejtkoIuxJiWUgm2AQCSYcjj3).**
 ## 
+
 
 Arduino tool kit, and require following breakout board:
 
