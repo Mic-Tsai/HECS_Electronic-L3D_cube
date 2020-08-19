@@ -3,6 +3,13 @@
 Use the microphone to design an interactive experience.
 You will figure out the LEDs will start dancing with the music!
 
+```
+Arduino tool kit, and require following breakout board:
+- MCU: Arduino 
+- Display: WS2812B-5050
+- Power source: Li-Po Battery
+```
+
 ##
 
 ### **About Mic**
@@ -18,13 +25,6 @@ If you interesting how it works please refer for detail:
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
 ## 
-
-```
-Arduino tool kit, and require following breakout board:
-- MCU: Arduino 
-- Display: WS2812B-5050
-- Power source: Li-Po Battery
-```
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
