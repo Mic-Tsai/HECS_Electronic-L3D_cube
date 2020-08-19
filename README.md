@@ -1,19 +1,19 @@
 # L3D_cube_4x4x4
 
-Use microphone to design an interactive experience.
-You will figure out the leds will start dancing with the music!
+Use the microphone to design an interactive experience.
+You will figure out the LEDs will start dancing with the music!
 
 ##
 
 ### **About Mic**
 
-Director of HECS, design light painting product which contain hardware layout and software programming.
+Director of HECS, design light painting product which contains hardware layout and software programming.
 
 - [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
 ### **About HECS**
 
-If you intresting how it work please refer for detail:
+If you interesting how it works please refer for detail:
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
