@@ -20,6 +20,8 @@ Director of HECS, design light painting product which contains hardware layout a
 
 - [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
+## 
+
 ### **About HECS**
 
 If you interesting how it works please refer for detail:
@@ -36,7 +38,6 @@ Will OPEN SOON:
 * If this project helping. Please generously support =)
 
    [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
-
 
 ##
 ![*L3D_cube_4x4x4*](https://github.com/Mic-Tsai/L3D_cube_4x4x4/blob/master/res/L3D_cube_4x4x4-1.png)
