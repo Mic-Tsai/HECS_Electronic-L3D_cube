@@ -1,5 +1,7 @@
 # L3D_cube_4x4x4
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 Use the microphone to design an interactive experience.
 You will figure out the LEDs will start dancing with the music!
 
