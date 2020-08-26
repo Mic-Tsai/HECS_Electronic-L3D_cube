@@ -1,4 +1,4 @@
-# L3D_cube_4x4x4
+## L3D_cube_4x4x4
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
